@@ -6,7 +6,7 @@
 📓 Google Colab Notebook → https://colab.research.google.com/drive/1iFR9PMCQ-Y85yJt1NNw9xKCJDwio0deN?usp=sharing
 
 
-💻 GitHub Repository → https://github.com/DhanujaaSudhi/ds_Dhanujaa-P
+💻 GitHub Repository → https://github.com/DhanujaaSudhi/ds_Dhanujaa-P/tree/main
 
 
 📑 Final Report (PDF) → ds_report.pdf
